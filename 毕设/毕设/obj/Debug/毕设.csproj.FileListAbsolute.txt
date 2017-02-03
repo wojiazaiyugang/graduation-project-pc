@@ -1,0 +1,27 @@
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\bin\Debug\毕设.exe.config
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.csprojResolveAssemblyReference.cache
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.Form1.resources
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.Properties.Resources.resources
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.csproj.GenerateResource.Cache
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\bin\Debug\毕设.exe
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\bin\Debug\毕设.pdb
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.exe
+c:\users\yu\documents\visual studio 2015\Projects\毕设\毕设\obj\Debug\毕设.pdb
+F:\beihang university\毕设\毕设\毕设\bin\Debug\毕设.exe.config
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.exe
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.pdb
+F:\beihang university\毕设\毕设\毕设\bin\Debug\毕设.exe
+F:\beihang university\毕设\毕设\毕设\bin\Debug\毕设.pdb
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.csprojResolveAssemblyReference.cache
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.Form1.resources
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.Properties.Resources.resources
+F:\beihang university\毕设\毕设\毕设\obj\Debug\毕设.csproj.GenerateResource.Cache
+F:\beihang university\final\毕设\毕设\bin\Debug\毕设.exe.config
+F:\beihang university\final\毕设\毕设\bin\Debug\毕设.exe
+F:\beihang university\final\毕设\毕设\bin\Debug\毕设.pdb
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.Form1.resources
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.Properties.Resources.resources
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.csproj.GenerateResource.Cache
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.exe
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.pdb
+F:\beihang university\final\毕设\毕设\obj\Debug\毕设.csprojResolveAssemblyReference.cache
